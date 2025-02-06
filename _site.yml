@@ -1,0 +1,33 @@
+name: "STUDY AREA MAPS"
+title: "Powerful & Insightful Maps"
+description: |
+
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: Home.html
+    - text: "Map1"
+      href: Map1.html
+    - text: "Map2"
+      href: Map2.html
+    - text: "Map3"
+      href: Map3.html
+    - text: "Map4"
+      href: Map4.html
+    - text: "Map5"
+      href: Map5.html
+    - text: "Map6"
+      href: Map6.html
+    - label: "Contact Us"
+      url: "mailto:ichidataanalysis@email.com"
+      target: "_blank"
+      icon: "fas fa-envelope"
+    - label: "Instagram"
+      url: "https://www.instagram.com/ichidatascience?igsh=Ym5kcW1qNTY4OGd0"
+      target: "_blank"
+      icon: "fab fa-instagram"
+    - label: "WhatsApp"
+      url: "https://chat.whatsapp.com/CuZzE2vs9bS3zjQrF4c1Jh"
+      target: "_blank"
+      icon: "fab fa-whatsapp"

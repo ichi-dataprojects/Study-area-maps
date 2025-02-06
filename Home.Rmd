@@ -1,0 +1,26 @@
+---
+title: "Powerful & Insightful Maps"
+description: |
+  Enhance your research report or any other report with versatile study area maps from Ichi Data Solutions.
+  Click the top-left icons to order now and follow us on social media for updates.
+  Like, share, and comment to support our work!
+  
+  Enjoy the journey with us we are here to serve you!
+output: 
+  distill::distill_article:
+    self_contained: false
+    includes:
+      in_header: auto_slide.html
+    css: "custom.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(distill)
+library(xaringan)
+library(htmltools)
+library(rmarkdown)
+```
+
+
